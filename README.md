@@ -1,4 +1,4 @@
-# remove_node_modules
+# Eliminar directorios node_modules y .angular
 
 Permite eliminar los directorios node_modules y .angular de un árbol de directorios.
 
