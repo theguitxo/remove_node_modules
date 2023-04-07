@@ -2,6 +2,8 @@
 
 Permite eliminar los directorios node_modules y .angular de un árbol de directorios.
 
+Probado con Node 18.13.0
+
 ## Parámetros
 
 El script admite dos parámetros:
