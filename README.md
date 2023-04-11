@@ -21,7 +21,7 @@ Lista 6 niveles de anidación borrando node_modules y .angular
 ```
 node files.js 8
 ```
-Lista 6 niveles de anidación borrando node_modules
+Lista 8 niveles de anidación borrando node_modules
 
 ```
 node files.js true
